@@ -1,4 +1,4 @@
-package com.example.apirestapp;
+package com.example.apirestapp.model;
 
 
 import com.google.gson.annotations.Expose;

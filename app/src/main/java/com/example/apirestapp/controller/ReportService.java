@@ -1,6 +1,9 @@
-package com.example.apirestapp;
+package com.example.apirestapp.controller;
+
+import com.example.apirestapp.model.Report;
 
 import  java.util.List;
+
 import retrofit2.Call;
 import retrofit2.http.*;
 
